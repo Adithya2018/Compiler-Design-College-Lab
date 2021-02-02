@@ -1,0 +1,1 @@
+(window.webpackJsonp_764afdc3_183e_47f5_8d20_a62aff2b0881_0_1_0=window.webpackJsonp_764afdc3_183e_47f5_8d20_a62aff2b0881_0_1_0||[]).push([[2],{"97Lx":function(_,n,o){"use strict";o.r(n);var a=o("mY0q");o.d(n,"SimpleFooter",function(){return a.a});var e=o("0/Fd");o.d(n,"getFooterProps",function(){return e.b})}}]);
